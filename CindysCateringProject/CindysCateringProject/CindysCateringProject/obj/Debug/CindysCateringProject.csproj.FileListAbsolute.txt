@@ -1,0 +1,9 @@
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\bin\Debug\CindysCateringProject.exe.config
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\bin\Debug\CindysCateringProject.exe
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\bin\Debug\CindysCateringProject.pdb
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.csprojAssemblyReference.cache
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.Catering.resources
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.Properties.Resources.resources
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.csproj.GenerateResource.cache
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.exe
+C:\Users\Altice\source\repos\CindysCateringProject\CindysCateringProject\obj\Debug\CindysCateringProject.pdb
