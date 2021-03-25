@@ -1,0 +1,6 @@
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\bin\Debug\CarClassActivity.exe.config
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\bin\Debug\CarClassActivity.exe
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\bin\Debug\CarClassActivity.pdb
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\obj\Debug\CarClassActivity.csprojAssemblyReference.cache
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\obj\Debug\CarClassActivity.exe
+C:\Users\Altice\source\repos\CarClassActivity\CarClassActivity\obj\Debug\CarClassActivity.pdb
