@@ -1,0 +1,11 @@
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.exe
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.deps.json
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.runtimeconfig.json
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.runtimeconfig.dev.json
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.dll
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\netcoreapp3.1\InventoryManagementSystem.pdb
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netcoreapp3.1\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netcoreapp3.1\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netcoreapp3.1\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netcoreapp3.1\InventoryManagementSystem.dll
+C:\Users\Altice\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\netcoreapp3.1\InventoryManagementSystem.pdb
